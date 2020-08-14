@@ -1,2 +1,2 @@
 # HTTP_SERVER
-Simple HTHTP Server demonstrating sockets
+Simple HTTP Server demonstrating sockets
